@@ -1,1 +1,54 @@
-{"Courses": [{"course_name": "Hangman", "discription": "Iss game par code kar kar hume relatively bade programs likhna seekhenge", "course_id": 1, "exercises": [{"id": 0}, {"id": 1, "name": "", "content": "", "hint": ""}, {"id": 2, "name": "Introduction", "content": "How to start", "hint": "No any hint", "submition": [{"submition": "WWw.navgurukul.org"}, {"submition": "gfjdhhffgjfglkjkjjglg"}]}, {"id": 3, "name": "Start up", "content": "How to start", "hint": "No any hint"}]}, {"course_name": "Requests", "course_id": 2, "discription": "In this we will learn about requests and calling API", "exercises": [{"id": 0}, {"id": 1, "name": "Start up", "content": "How to start", "hint": "No any hint"}, {"id": 2, "name": "Start up", "content": "How to start", "hint": "No any hint"}, {"id": 3, "name": "Start up", "content": "How to start", "hint": "No any hint"}, {"id": 4, "name": "Start up", "content": "How to start", "hint": "No any hint"}, {"id": 5, "name": "Start up", "content": "How to start", "hint": "No any hint"}]}, {"course_name": "Web Screpping", "course_id": 3, "discription": "IMDB screpper"}, {"course_name": "English 101", "course_id": 4, "discription": "English for beginner"}]}
+[
+  {
+    "course_name": "Hangman1",
+    "discription": "Iss game par code kar kar hume relatively bade programs likhna seekhenge1",
+    "course_id": 1,
+    "exercise": [
+      {
+        "id": "1",
+        "name": "JS",
+        "content": "no",
+        "hint": "No",
+        "submition": "sfjkjdfjjkfas"
+      }
+    ]
+  },
+  {
+    "course_name": "Hangman2",
+    "discription": "Iss game par code kar kar hume relatively bade programs likhna seekhenge2",
+    "course_id": 2,
+    "exercise": [
+      {
+        "id": "2",
+        "name": "node",
+        "content": "No",
+        "hint": "no",
+        "submition": "Yes"
+      }
+    ]
+  },
+  {
+    "course_name": "Hangman3",
+    "discription": "Iss game par code kar kar hume relatively bade programs likhna seekhenge3",
+    "course_id": 3,
+    "exercise": {
+      "id": 3,
+      "name": "JS",
+      "content": "no",
+      "hint": "No"
+    }
+  },
+  {
+    "course_name": "Sunil Parchaahdsjkfhjh",
+    "discription": "Disco of boys campusfduhhahois",
+    "course_id": 4,
+    "exercise": [
+      {
+        "id": 4,
+        "name": "JS",
+        "content": "no",
+        "hint": "No"
+      }
+    ]
+  }
+]
